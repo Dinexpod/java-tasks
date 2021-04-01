@@ -13,5 +13,10 @@ public class Task2 {
     Элли самая красивая
     Элли самая красивая
      */
+        System.out.println("Элли самая красивая");
+        System.out.println("Элли самая красивая");
+        System.out.println("Элли самая красивая");
+        System.out.println("Элли самая красивая");
+        System.out.println("Элли самая красивая");
     }
 }
