@@ -16,6 +16,7 @@ public class Task4 {
     //Пример вывода:
     //2
     static void getMetreFromCentimetre(int centimetre) {
-
+        int metre = centimetre / 100;
+System.out.println(metre);
     }
 }
